@@ -1,4 +1,3 @@
 #!/bin/bash
-pip3 install flask --user
-python3 sample_app.py
+echo "Hola, Jenkins está funcionando correctamente."
 
